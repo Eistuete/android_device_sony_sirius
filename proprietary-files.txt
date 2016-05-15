@@ -1,0 +1,41 @@
+# Bluetooth
+etc/firmware/BCM43xx.hcd
+
+# Modem D6502
+etc/firmware/d6502/mba.b00
+etc/firmware/d6502/modem.b01
+etc/firmware/d6502/modem.mdt
+
+# TFA98XX DSP
+etc/tfa98xx/btm.speaker
+etc/tfa98xx/coldboot.patch
+etc/tfa98xx/FMSpeaker_btm.eq
+etc/tfa98xx/FMSpeaker_btm.preset
+etc/tfa98xx/FMSpeaker_top.eq
+etc/tfa98xx/FMSpeaker_top.preset
+etc/tfa98xx/HiFiSpeaker_btm.eq
+etc/tfa98xx/HiFiSpeaker_btm.preset
+etc/tfa98xx/HiFiSpeakerRing_btm.eq
+etc/tfa98xx/HiFiSpeakerRing_btm.preset
+etc/tfa98xx/HiFiSpeakerRing_top.eq
+etc/tfa98xx/HiFiSpeakerRing_top.preset
+etc/tfa98xx/HiFiSpeakerSforce_btm.eq
+etc/tfa98xx/HiFiSpeakerSforce_btm.preset
+etc/tfa98xx/HiFiSpeakerSforce_top.eq
+etc/tfa98xx/HiFiSpeakerSforce_top.preset
+etc/tfa98xx/HiFiSpeaker_top.eq
+etc/tfa98xx/HiFiSpeaker_top.preset
+etc/tfa98xx/TFA9890_btm.config
+etc/tfa98xx/TFA9890.patch
+etc/tfa98xx/TFA9890_Receiver.config
+etc/tfa98xx/TFA9890_top.config
+etc/tfa98xx/top.speaker
+etc/tfa98xx/VoiceCallEarpice_top.eq
+etc/tfa98xx/VoiceCallEarpice_top.preset
+etc/tfa98xx/VoiceCallSpeaker_btm.eq
+etc/tfa98xx/VoiceCallSpeaker_btm.preset
+etc/tfa98xx/VoiceCallSpeaker_top.eq
+etc/tfa98xx/VoiceCallSpeaker_top.preset
+
+# Touchscreen
+usr/idc/max1187x_touchscreen_0.idc
