@@ -40,6 +40,6 @@ etc/tfa98xx/VoiceCallSpeaker_top.preset
 # Touchscreen
 usr/idc/max1187x_touchscreen_0.idc
 
-#vendor/lib/soundfx/libqcvirt.so
-#vendor/lib/soundfx/libqcreverb.so
-#vendor/lib/soundfx/libqcbassboost.so
+vendor/lib/soundfx/libqcvirt.so
+vendor/lib/soundfx/libqcreverb.so
+vendor/lib/soundfx/libqcbassboost.so

@@ -38,3 +38,4 @@ TARGET_RELEASETOOLS_EXTENSIONS := device/sony/sirius
 # SELinux
 BOARD_SEPOLICY_DIRS += \
     device/sony/sirius/sepolicy
+MALLOC_IMPL := dlmalloc
